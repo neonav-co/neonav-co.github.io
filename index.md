@@ -67,7 +67,7 @@ sections:
     title: Yes, it's free!
     actions:
       - title: Download Now!
-        url: https://github.com/unity-workspace/unity-workspace.github.io/releases/download/v1.0.0/UnityWorkspace-1.0.0.Setup.zip
+        url: https://github.com/neonav-co/neonav-co.github.io/releases/download/v1.0.1/NeoWorkspace-1.0.0.Setup.zip
         class: btn-light
 
   - type: contact.html
