@@ -3,7 +3,7 @@ layout: home
 header:
   title: A new way to navigate websites
   text: >
-    Unity Workspace enables you to open websites in tiled windows, allowing you to view the contents simultaneously without switching tabs, and to organize the websites with different workspaces.
+    Neo Workspace enables you to open websites in tiled windows, allowing you to view the contents simultaneously without switching tabs, and to organize the websites with different workspaces.
   action: # action button is optional
     label: Find Out More
     url: '#features'
@@ -79,7 +79,7 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:unity-workspace@outlook.com
+      url: mailto:support@neonav.co
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
