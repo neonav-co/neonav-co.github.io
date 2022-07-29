@@ -83,6 +83,6 @@ sections:
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
+      url: 'https://twitter.com/neonav_co'
 
 ---

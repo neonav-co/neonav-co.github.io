@@ -1,5 +1,8 @@
 copyright: '&copy; Neo Workspace'
 links:
   - text: NeoNav
-    url: 'https://neonav.co'
+    url: 'https://www.neonav.co'
     new_window: true
+
+  - text: Privacy Policy
+    url: '/privacy-policy'
