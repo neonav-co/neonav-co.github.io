@@ -62,13 +62,7 @@ sections:
         icon: drag-drop.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: download
-    title: Yes, it's free!
-    actions:
-      - title: Download Now!
-        url: https://github.com/neonav-co/neonav-co.github.io/releases/download/v1.0.1/NeoWorkspace-1.0.0.Setup.zip
-        class: btn-light
+  - type: download.html
 
   - type: contact.html
     section_id: contacts
