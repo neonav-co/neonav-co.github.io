@@ -3,7 +3,7 @@ layout: home
 header:
   title: A new way to navigate websites
   text: >
-    Neo Workspace enables you to open websites in tiled windows, allowing you to view the contents simultaneously without switching tabs, and to organize the websites with different workspaces.
+    Neo Workspace enables you to open websites in tiled windows, allowing you to view the contents simultaneously without switching tabs, and to organize them with different workspaces.
   action: # action button is optional
     label: Find Out More
     url: '#features'
@@ -17,7 +17,7 @@ sections:
     title: Feature Summary
     services:
       - title: Tiled Windows
-        text: Use tiled windows to view the websites instead of tabs. Split them vertically and horizontally with one click, it's as easy as you handle the table cells in Word!
+        text: Use tiled windows to view websites instead of tabs. Split them vertically and horizontally with one click
         icon: fa-window-maximize text-info
       - title: Flexible layout
         text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
@@ -26,7 +26,7 @@ sections:
         text: Everything in your workspace is automatically saved, be it the websites you are viewing, the size and location of the windows. You can start from exactly where you left off.
         icon: fa-box-archive text-success
       - title: Light and Dark Theme 
-        text: Simple yet intuitive user interface removing all the cluster for you, with one click to toggle between light and dark them.
+        text: Simple yet intuitive user interface removing all the clutter for you, with one click to toggle between light and dark them.
         icon: fa-circle-half-stroke text-dark
 
   - type: portfolio.html
@@ -66,9 +66,9 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Let's Get in Touch!
     text: >-
-      Want more features or need some support? Send us an email
+      Want more features or need some help? Send us an email
       and we will get back to you as soon as possible!
     actions:
     - title: E-Mail
