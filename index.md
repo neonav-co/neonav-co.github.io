@@ -3,7 +3,7 @@ layout: home
 header:
   title: A new way to navigate websites
   text: >
-    Neo Workspace enables you to open websites in tiled windows, allowing you to view the contents simultaneously without switching tabs, and to organize them with different workspaces.
+    Neo Workspace is a smart tiling window manager for your websites, allowing you to view different websites simultaneously without switching tabs and to organize them with multiple workspaces.
   action: # action button is optional
     label: Find Out More
     url: '#features'
@@ -16,12 +16,15 @@ sections:
     # background_style: bg-info
     title: Feature Summary
     services:
-      - title: Tiled Windows
-        text: Use tiled windows to view websites instead of tabs. Split them vertically and horizontally with one click
+      - title: Tiling Windows
+        text: Use tiling windows to view websites instead of tabs. Split them vertically and horizontally with one click
         icon: fa-window-maximize text-info
       - title: Flexible layout
         text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
         icon: fa-table-columns text-info
+      - title: Multiple Workspaces
+        text: Group your websites into different workspaces and switch the context easily
+        icon: fa-layer-group text-primary
       - title: Data Auto Saving
         text: Everything in your workspace is automatically saved, be it the websites you are viewing, the size and location of the windows. You can start from exactly where you left off.
         icon: fa-box-archive text-success
@@ -34,8 +37,8 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Tiled Windows
-        text: Three tiled windows, with the top two showing info about Apple stocks, the bottom one taking notes
+      - title: Tiling Windows
+        text: Three tiling windows, with the top two showing info about Apple stocks, the bottom one taking notes
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails

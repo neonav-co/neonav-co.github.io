@@ -2,7 +2,7 @@
 title: Neo Workspace
 tagline: A new way to navigate websites
 description: >
-  Neo Workspace enables you to open websites in tiled windows, allowing you to view the contents simultaneously without switching tabs, and to organize them with different workspaces.
+  Neo Workspace is a tiling window manager for your websites, allowing you to view the contents simultaneously without switching tabs, and to organize them with different workspaces.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 author: NeoNav
