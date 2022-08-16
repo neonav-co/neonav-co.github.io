@@ -2,7 +2,8 @@
 title: Neo Workspace
 tagline: A new way to navigate websites
 description: >
-  Neo Workspace is a tiling window manager for your websites, allowing you to view the contents simultaneously without switching tabs, and to organize them with different workspaces.
+  Neo Workspace is a smart tiling window manager for your websites, with features such as password manager, spellcheck, multiple workspaces, 
+  flexible layout, data auto saving and dark theme.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 author: NeoNav

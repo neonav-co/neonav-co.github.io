@@ -3,7 +3,7 @@ layout: home
 header:
   title: A new way to navigate websites
   text: >
-    Neo Workspace is a smart tiling window manager for your websites, allowing you to view their contents simultaneously without switching tabs and to organize them with multiple workspaces.
+    Neo Workspace is a smart tiling window manager for your websites, with build-in password manager, spellcheck, multiple workspaces and dark theme.
   action: # action button is optional
     label: Find Out More
     url: '#features'
@@ -25,12 +25,15 @@ sections:
       - title: Flexible layout
         text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
         icon: fa-table-columns text-info
+      - title: Spellcheck
+        text: Spell check the words and allow you to correct them easily by showing the suggestions in the context menu.
+        icon: fa-spell-check text-warning
       - title: Multiple Workspaces
-        text: Group your websites into different workspaces and switch the context easily
+        text: Group your websites into different workspaces and switch the context from the sidebar.
         icon: fa-layer-group text-primary
       - title: Data Auto Saving
-        text: Everything in your workspace is automatically saved, be it the websites you are viewing, the size and location of the windows. You can start from exactly where you left off.
-        icon: fa-box-archive text-success
+        text: Everything in your workspace - URLs, the size and location of the windows - is automatically saved. You can start from exactly where you left off.
+        icon: fa-box-archive text-secondary
       - title: Dark Theme 
         text: Simple yet intuitive user interface removing all the clutter for you, with one click to toggle between light and dark them.
         icon: fa-circle-half-stroke text-dark
@@ -51,14 +54,23 @@ sections:
         text: Drag the window around and drop it anywhere you see fit
         icon: drag-drop.png
         url: '#'
-      - title: Multiple workspaces
-        text: You can create multiple workspaces and quickly switch among them with one click
-        icon: multi-workspaces.png
-        url: '#'
       - title: Password saving and autofill 
         text: Prompt you to save the password
         icon: save-password.png
         url: '#'
+      - title: Build-in password manager
+        text: Manage you password easily with the build-in password manager
+        icon: password-manager.png
+        url: '#'
+      - title: Spellcheck
+        text: Spellcheck with suggestions in the context menu
+        icon: spellcheck.png
+        url: '#'
+      - title: Multiple workspaces
+        text: You can create multiple workspaces and quickly switch among them with one click
+        icon: multi-workspaces.png
+        url: '#'
+      
 
   - type: download.html
 
