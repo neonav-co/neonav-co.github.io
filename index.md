@@ -20,7 +20,7 @@ sections:
         text: Use tiling windows to view websites instead of tabs. Split them vertically and horizontally with one click
         icon: fa-window-maximize text-info
       - title: Password Autofill
-        text: Build-in password manager allowing you to log in to sites and fill forms securely and easily. Rested assured that you passwords are encrypted and stored on your device only
+        text: Build-in password manager allowing you to log in to sites and fill forms securely and easily. Rest assured that you passwords are encrypted and stored on your device only
         icon: fa-key text-success
       - title: Flexible layout
         text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
@@ -31,7 +31,7 @@ sections:
       - title: Data Auto Saving
         text: Everything in your workspace is automatically saved, be it the websites you are viewing, the size and location of the windows. You can start from exactly where you left off.
         icon: fa-box-archive text-success
-      - title: Light and Dark Theme 
+      - title: Dark Theme 
         text: Simple yet intuitive user interface removing all the clutter for you, with one click to toggle between light and dark them.
         icon: fa-circle-half-stroke text-dark
 
