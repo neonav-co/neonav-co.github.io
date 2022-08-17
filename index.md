@@ -26,7 +26,7 @@ sections:
         text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
         icon: fa-table-columns text-info
       - title: Spellcheck
-        text: Spell check the words and allow you to correct them easily by showing the suggestions in the context menu.
+        text: Spell check the words and correct misspelled ones by selecting the suggestions in the context menu.
         icon: fa-spell-check text-warning
       - title: Multiple Workspaces
         text: Group your websites into different workspaces and switch the context from the sidebar.
