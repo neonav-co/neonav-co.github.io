@@ -1,9 +1,9 @@
 ---
 layout: home
 header:
-  title: A new way to navigate websites
+  title: Built for large screens, multitasking and privacy
   text: >
-    Neo Workspace is a smart tiling window manager for your websites, with build-in password manager, spellcheck, multiple workspaces and dark theme.
+    Neo Workspace allows you to view multiple web pages side by side in one window and multitask more easily, it has build-in password manager, multi-workspace support, dark theme and (a lot) more.
   action: # action button is optional
     label: Find Out More
     url: '#features'
