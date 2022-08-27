@@ -3,7 +3,7 @@ layout: home
 header:
   title: Built for large screens, multitasking and privacy
   text: >
-    Neo Workspace allows you to view multiple web pages side by side in one window and multitask more easily, it has build-in password manager, multi-workspace support, dark theme and (a lot) more.
+    Neo Navigator allows you to view multiple web pages side by side in one window and multitask easily, it has build-in password manager, multi-workspace support, dark theme and (a lot) more.
   action: # action button is optional
     label: Find Out More
     url: '#features'
@@ -16,21 +16,21 @@ sections:
     # background_style: bg-info
     title: Feature Summary
     services:
-      - title: Tiling Windows
-        text: Use tiling windows to view websites instead of tabs. Split them vertically and horizontally with one click
+      - title: Tiled Windows/Panes
+        text: Use tiling panes to view websites instead of tabs. Split them vertically and horizontally with one click
         icon: fa-window-maximize text-info
       - title: Password Autofill
         text: Build-in password manager allowing you to log in to sites and fill forms securely and easily. Rest assured that you passwords are encrypted and stored on your device only
         icon: fa-key text-success
-      - title: Flexible layout
-        text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
-        icon: fa-table-columns text-info
-      - title: Spellcheck
-        text: Spell check the words and correct misspelled ones by selecting the suggestions in the context menu.
-        icon: fa-spell-check text-warning
       - title: Multiple Workspaces
         text: Group your websites into different workspaces and switch the context from the sidebar.
         icon: fa-layer-group text-primary
+      - title: Spellcheck
+        text: Spell check the words and correct misspelled ones by selecting the suggestions in the context menu.
+        icon: fa-spell-check text-warning
+      - title: Flexible layout
+        text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
+        icon: fa-table-columns text-info
       - title: Data Auto Saving
         text: Everything in your workspace - URLs, the size and location of the windows - is automatically saved. You can start from exactly where you left off.
         icon: fa-box-archive text-secondary
@@ -43,8 +43,8 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Tiling windows
-        text: Four tiling windows, with three showing info about stocks information and one taking notes
+      - title: Tiled panes
+        text: Four tiled panes, with three showing info about stocks information and one taking notes
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails

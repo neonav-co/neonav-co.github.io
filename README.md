@@ -1,1 +1,1 @@
-# The website for Neo Workspace
+# The website for Neo Navigator

@@ -1,8 +1,8 @@
 # Site settings
-title: Neo Workspace
+title: Neo Navigator
 tagline: Built for large screens, multitasking and privacy.
 description: >
-  Neo Workspace allows you to view multiple web pages side by side in one window and multitask more easily, it has password manager, spellcheck, 
+  Neo Navigator allows you to view multiple web pages side by side in one window and multitask more easily, it has password manager, spellcheck, 
   flexible layout, dark theme and a lot more.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
