@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Built for large screens, multitasking and privacy
+  title: A browser built for large screens, multitasking and privacy
   text: >
     Neo Navigator allows you to view multiple web pages side by side in one window and multitask easily, it has build-in password manager, multi-workspace support, dark theme and (a lot) more.
   action: # action button is optional
