@@ -16,7 +16,7 @@ sections:
     # background_style: bg-info
     title: Feature Summary
     services:
-      - title: Tiled Windows/Panes
+      - title: Tiled Panes
         text: Use tiling panes to view websites instead of tabs. Split them vertically and horizontally with one click
         icon: fa-window-maximize text-info
       - title: Password Autofill
@@ -50,8 +50,8 @@ sections:
         # img/portfolio/thumbnails
         icon: tiles.png
         url: '#'
-      - title: Drag and drop windows
-        text: Drag the window around and drop it anywhere you see fit
+      - title: Drag and drop panes
+        text: Drag the pane around and drop it anywhere you see fit
         icon: drag-drop.png
         url: '#'
       - title: Password saving and autofill 
@@ -66,9 +66,9 @@ sections:
         text: Spellcheck with suggestions in the context menu
         icon: spellcheck.png
         url: '#'
-      - title: Multiple workspaces
-        text: You can create multiple workspaces and quickly switch among them with one click
-        icon: multi-workspaces.png
+      - title: Keyboard shortcuts
+        text: Manage your workspaces and navigate the panes with keyboard shortcuts
+        icon: keyboard-shortcuts.png
         url: '#'
       
 
