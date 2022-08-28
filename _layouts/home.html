@@ -12,7 +12,8 @@ layout: base
       <div class="col-lg-8 align-self-baseline">
         <p class="text-white-75 font-weight-light mb-5">{{ page.header.text }}</p>
         {% if page.header.action %}
-        <a class="btn btn-light btn-xl js-scroll-trigger" href="{{ page.header.action.url }}">{{ page.header.action.label }}</a>
+        <a class="btn btn-light btn-xl js-scroll-trigger" href="{{ page.header.action.url }}">{{
+          page.header.action.label }}</a>
         {% endif %}
       </div>
     </div>
@@ -20,7 +21,7 @@ layout: base
 </header>
 
 {% for section in page.sections %}
-    {% include {{ section.type }} section=section site=site page=page %}
+{% include {{ section.type }} section=section site=site page=page %}
 {% endfor %}
 
 {{ content }}

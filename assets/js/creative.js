@@ -59,5 +59,19 @@
       tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
     }
   });
+   $('#demo').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: false,
+      navigateByImgClick: true,
+      preload: [0]
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+    }
+  });
 
 })(jQuery); // End of use strict

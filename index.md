@@ -5,16 +5,27 @@ header:
   text: >
     Neo Navigator allows you to view multiple web pages side by side in one window and multitask easily, it has build-in password manager, multi-workspace support, dark theme and (a lot) more.
   action: # action button is optional
-    label: Find Out More
-    url: '#features'
+    label: Watch a quick demo
+    url: '#demo'
     class: btn-light
 
-
 sections:
+  - type: demo.html
+    # background_style: bg-light
+    projects:
+      - title: A quick demo
+        text: Click to see the full size demo
+        icon: neonav-demo.gif
+        url: '#'
+    action: # action button is optional
+      label: Download
+      url: '#download'
+      class: btn-secondary
+
   - type: services.html
     section_id: features
     # background_style: bg-info
-    title: Feature Summary
+    title: Feature summary
     services:
       - title: Tiled Panes
         text: Use tiling panes to view websites instead of tabs. Split them vertically and horizontally with one click
@@ -76,7 +87,7 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get in Touch!
+    title: Let's get in touch!
     text: >-
       Want more features or need some help? Send us an email
       and we will get back to you as soon as possible!
