@@ -3,7 +3,7 @@ layout: home
 header:
   title: A browser built for large screens, multitasking and privacy
   text: >
-    Neo Navigator allows you to view multiple web pages side by side in one window and multitask easily, it has build-in password manager, multi-workspace support, dark theme and (a lot) more.
+    Neo Navigator allows you to view multiple web pages side by side in one window and multitask easily, it has build-in password manager, ads blocker, multi-workspace support, spellchecker and (a lot) more.
   action: # action button is optional
     label: Watch a quick demo
     url: '#demo'
@@ -32,7 +32,10 @@ sections:
         icon: fa-window-maximize text-info
       - title: Password Autofill
         text: Build-in password manager allowing you to log in to sites and fill forms securely and easily. Rest assured that you passwords are encrypted and stored on your device only
-        icon: fa-key text-success
+        icon: fa-key  text-secondary
+      - title: Ads shield
+        text: Blocking all the annoying ads and trackers, giving you better privacy.
+        icon: fa-shield text-success
       - title: Multiple Workspaces
         text: Group your websites into different workspaces and switch the context from the sidebar.
         icon: fa-layer-group text-primary
