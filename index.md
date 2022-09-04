@@ -29,25 +29,32 @@ sections:
     services:
       - title: Tiled Panes
         text: Use tiling panes to view websites instead of tabs. Split them vertically and horizontally with one click
-        icon: fa-window-maximize text-info
+        icon: fa-border-all text-info
+
       - title: Password Autofill
         text: Build-in password manager allowing you to log in to sites and fill forms securely and easily. Rest assured that you passwords are encrypted and stored on your device only
         icon: fa-key  text-secondary
-      - title: Ads shield
-        text: Blocking all the annoying ads and trackers, giving you better privacy.
+
+      - title: Ads Shield
+        text: Blocks all the annoying ads and trackers, giving you better privacy.
         icon: fa-shield text-success
+
+      - title: Reader Mode
+        text: Allows you read the essential content by removing webpage cluster e.g. graphics, banners and other superfluous elements
+        icon: fa-book-open text-secondary
+
       - title: Multiple Workspaces
         text: Group your websites into different workspaces and switch the context from the sidebar.
         icon: fa-layer-group text-primary
+
       - title: Spellcheck
         text: Spell check the words and correct misspelled ones by selecting the suggestions in the context menu.
         icon: fa-spell-check text-warning
-      - title: Flexible layout
-        text: Create as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
+
+      - title: Flexible Layout
+        text: Creates as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
         icon: fa-table-columns text-info
-      - title: Data Auto Saving
-        text: Everything in your workspace - URLs, the size and location of the windows - is automatically saved. You can start from exactly where you left off.
-        icon: fa-box-archive text-secondary
+
       - title: Dark Theme 
         text: Simple yet intuitive user interface removing all the clutter for you, with one click to toggle between light and dark them.
         icon: fa-circle-half-stroke text-dark
