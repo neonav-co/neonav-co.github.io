@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: A browser built for large screens, multitasking and privacy
+  title: A browser with AI powered Voice Assistant
   text: >
     Neo Navigator allows you to view multiple web pages side by side in one window and multitask easily, it has build-in password manager, ads blocker, multi-workspace support, spellchecker and (a lot) more.
   action: # action button is optional
