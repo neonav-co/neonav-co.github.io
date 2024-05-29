@@ -1,12 +1,12 @@
 ---
 layout: home
 header:
-  title: A browser with AI powered voice assistant
+  title: "Double the Space, Double the Pace: NeoNavigator Unlocks Limitless Views!"
   text: >
     Neo Navigator allows you to view multiple web pages side by side in one window and multitask easily, it has build-in password manager, ads blocker, multi-workspace support, spellchecker and (a lot) more.
   action: # action button is optional
     label: Watch a quick demo
-    url: '#demo'
+    url: "#demo"
     class: btn-light
 
 sections:
@@ -16,10 +16,10 @@ sections:
       - title: A quick demo
         text: Click to see the full size demo
         icon: neonav-demo.gif
-        url: '#'
+        url: "#"
     action: # action button is optional
       label: Download
-      url: '#download'
+      url: "#download"
       class: btn-secondary
 
   - type: services.html
@@ -55,7 +55,7 @@ sections:
         text: Creates as many windows as you want, resize them, and drag and drop them around to create the layout you prefer in your workspaces
         icon: fa-table-columns text-info
 
-      - title: Dark Theme 
+      - title: Dark Theme
         text: Simple yet intuitive user interface removing all the clutter for you, with one click to toggle between light and dark them.
         icon: fa-circle-half-stroke text-dark
 
@@ -70,28 +70,27 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: tiles.png
-        url: '#'
+        url: "#"
       - title: Drag and drop panes
         text: Drag the pane around and drop it anywhere you see fit
         icon: drag-drop.png
-        url: '#'
-      - title: Password saving and autofill 
+        url: "#"
+      - title: Password saving and autofill
         text: Prompt you to save the password
         icon: save-password.png
-        url: '#'
+        url: "#"
       - title: Build-in password manager
         text: Manage you password easily with the build-in password manager
         icon: password-manager.png
-        url: '#'
+        url: "#"
       - title: Spellcheck
         text: Spellcheck with suggestions in the context menu
         icon: spellcheck.png
-        url: '#'
+        url: "#"
       - title: Keyboard shortcuts
         text: Manage your workspaces and navigate the panes with keyboard shortcuts
         icon: keyboard-shortcuts.png
-        url: '#'
-      
+        url: "#"
 
   - type: download.html
 
@@ -102,12 +101,11 @@ sections:
       Want more features or need some help? Send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: E-Mail
-      icon: fa-envelope
-      url: mailto:support@neonav.co
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: 'https://twitter.com/neonav_co'
-
+      - title: E-Mail
+        icon: fa-envelope
+        url: mailto:support@neonav.co
+      - title: Twitter
+        icon: fa-twitter
+        icon_type: fab
+        url: "https://twitter.com/neonav_co"
 ---
